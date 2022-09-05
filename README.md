@@ -1,7 +1,7 @@
 # Cursor: "Homework 09" (Andrey Kiyas)
 ___
 ### Git link(s):
-- [Pull request 01 (HW)](https://github.com/andrey-kiyas/com.CursorHomeWorks09/pull/1)
+- [Pull request 01 (HW)](https://github.com/andrey-kiyas/CursorHomeWorks09/pull/1)
 ___
 ### EN
 1) Write Product, Category, ProductParameter and ProductDescription @entity classes
